@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
 //    external fun stringFromJNI(): String
 
 
-
+//test3
 
     companion object {
 
