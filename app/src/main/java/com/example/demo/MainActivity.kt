@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
 
 //test3
 //test5
+    //test6
     companion object {
 
         // Used to load the 'native-lib' library on application startup.
