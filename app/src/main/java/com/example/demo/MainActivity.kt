@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity() {
 //    external fun stringFromJNI(): String
 
 
+//test3
+//test5
 //test4
 
     companion object {
